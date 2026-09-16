@@ -70,7 +70,7 @@ My technology choices evolve with the requirements of each project.
 
 **Languages**
 
-`Python` · `PHP` · `JavaScript` · `TypeScript` · `C` · `C++`
+`Python` · `PHP` · `Kotlin` · `TypeScript` · `C#` · `C++`
 
 **Web Development**
 
