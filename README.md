@@ -63,7 +63,7 @@ I value software that is:
 ## Tech Stack
 
 ### Languages
-`Python` · `PHP` · `Kotlin` · `TypeScript` · `C#` · `C++`
+`Python` · `PHP` · `Kotlin` · `TypeScript` · `C#`
 
 ### Web & API Development
 `Backend Development` · `API Development` · `Frontend Development` · `REST APIs`
