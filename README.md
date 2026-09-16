@@ -1,53 +1,50 @@
 # Samwel G Mtakati
 
-**Software Engineer building reliable, scalable, and maintainable software.**
+### Software Engineer building reliable, scalable, and maintainable software
+
+I’m a software engineer passionate about solving real-world problems through thoughtful design, clean implementation, and pragmatic engineering. I enjoy working across backend systems, APIs, data-driven applications, and full-stack product development.
+
+I care about building software that is not only functional, but also understandable, maintainable, secure, and easy to evolve over time.
 
 ## About Me
 
-I'm a Software Engineer passionate about designing and building software that solves real-world problems.
-
-I enjoy understanding complex requirements, designing practical solutions, and turning ideas into reliable software systems. My interests span backend engineering, APIs, databases, system architecture, web applications, and software development practices.
-
-I believe good software is not only about making things work, but also about making them understandable, maintainable, secure, and adaptable.
+- Strong interest in software architecture, backend systems, and API design
+- Focused on building practical solutions that solve real problems
+- Comfortable working with data, application logic, and engineering workflows
+- Committed to writing clean, testable, and maintainable code
+- Always learning and improving through hands-on experience
 
 ## What I Do
 
-- Design and develop software applications
-- Build backend systems and APIs
-- Design and work with data-driven systems
-- Develop web applications and user interfaces
-- Design maintainable software architectures
-- Work with relational databases
-- Write clean and maintainable code
-- Test, debug, and improve software systems
-- Collaborate using modern software development workflows
+- Design and build software applications
+- Develop backend systems and APIs
+- Work with relational databases and data models
+- Build web applications and user interfaces
+- Improve software architecture and maintainability
+- Write tests, debug issues, and refine systems
+- Collaborate using modern development workflows
 
 ## Current Focus
 
 - Strengthening software engineering fundamentals
 - Building production-oriented applications
 - Improving backend architecture and system design
-- Learning more about infrastructure, deployment, and DevOps
-- Improving software testing and development workflows
-- Building software projects that solve practical problems
+- Learning more about deployment, infrastructure, and DevOps
+- Developing projects that solve practical problems
 
 ## Featured Projects
 
 ### Estate Management System
-
-A comprehensive platform for managing properties, units, tenants, leases, payments, maintenance, documents, and related operations.
+A platform for managing properties, tenants, leases, payments, maintenance, documents, and related operations.
 
 ### Security Guard Management System
-
-A software platform designed to manage security personnel, assignments, operational activities, and administrative workflows.
+A system designed to manage personnel assignments, operational workflows, and administrative processes.
 
 ### Student Marks Management System
-
-A system for managing student assessment data, administrative workflows, validation, and reporting.
+A solution for managing student assessments, administrative workflows, validation, and reporting.
 
 ### Developer–Client Platform
-
-A platform concept focused on improving software project collaboration through documentation, communication, project management, progress tracking, and future payment workflows.
+A collaboration-focused platform concept for project communication, documentation, progress tracking, and payment workflows.
 
 > More projects and experiments are available in my repositories.
 
@@ -55,47 +52,39 @@ A platform concept focused on improving software project collaboration through d
 
 I value software that is:
 
-- **Simple** — Prefer understandable solutions over unnecessary complexity.
-- **Maintainable** — Code should be easy to understand, modify, and extend.
-- **Reliable** — Systems should behave predictably and handle failure appropriately.
-- **Secure** — Security should be considered throughout the development lifecycle.
-- **Testable** — Important behavior should be verified rather than assumed.
-- **Documented** — Good documentation reduces ambiguity and improves collaboration.
-- **Consistent** — Clear conventions make systems easier to work with.
-- **Practical** — Engineering decisions should solve the actual problem.
+- Simple — Prefer understandable solutions over unnecessary complexity
+- Maintainable — Easy to read, extend, and improve
+- Reliable — Predictable behavior under real-world conditions
+- Secure — Security considered throughout the lifecycle
+- Testable — Behavior verified rather than assumed
+- Documented — Clear guidance for collaboration and future changes
+- Practical — Decisions grounded in actual user and business needs
 
-## Tech / Tools
+## Tech Stack
 
-My technology choices evolve with the requirements of each project.
-
-**Languages**
-
+### Languages
 `Python` · `PHP` · `Kotlin` · `TypeScript` · `C#` · `C++`
 
-**Web Development**
-
+### Web & API Development
 `Backend Development` · `API Development` · `Frontend Development` · `REST APIs`
 
-**Databases**
-
+### Databases
 `PostgreSQL` · `MySQL` · `Relational Database Design`
 
-**Development & Infrastructure**
-
+### Tools & Infrastructure
 `Git` · `GitHub` · `Linux` · `Docker` · `CI/CD` · `Web Servers`
 
-**Engineering**
-
+### Engineering
 `Software Architecture` · `Database Design` · `Authentication & Authorization` · `Testing` · `API Design`
 
 ## Connect
 
-I'm interested in software engineering, technology, open-source projects, collaboration, and opportunities to build useful software.
+I’m interested in software engineering, technology, collaboration, and building useful tools.
 
-- **GitHub:** [@mtakatiGS](https://github.com/mtakatiGS)
-- **Email:** [mtakatigs@proton.me](mailto:mtakatigs@proton.me)
-- **WhatsApp:** [+255 673 672 868](https://wa.me/255673672868)
+- GitHub: [@mtakatiGS](https://github.com/mtakatiGS)
+- Email: [mtakatigs@proton.me](mailto:mtakatigs@proton.me)
+- WhatsApp: [+255 673 672 868](https://wa.me/255673672868)
 
 ---
 
-> **Build. Learn. Improve. Repeat.**
+> Build. Learn. Improve. Repeat.
